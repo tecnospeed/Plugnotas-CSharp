@@ -1,0 +1,84 @@
+C:\Users\João Paulo Fernandes\source\repos\Demo Plug Notas\Demo Plug Notas\bin\Debug\Demo Plug Notas.exe.config
+C:\Users\João Paulo Fernandes\source\repos\Demo Plug Notas\Demo Plug Notas\bin\Debug\Demo Plug Notas.exe
+C:\Users\João Paulo Fernandes\source\repos\Demo Plug Notas\Demo Plug Notas\bin\Debug\Demo Plug Notas.pdb
+C:\Users\João Paulo Fernandes\source\repos\Demo Plug Notas\Demo Plug Notas\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\João Paulo Fernandes\source\repos\Demo Plug Notas\Demo Plug Notas\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\João Paulo Fernandes\source\repos\Demo Plug Notas\Demo Plug Notas\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\João Paulo Fernandes\source\repos\Demo Plug Notas\Demo Plug Notas\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\João Paulo Fernandes\source\repos\Demo Plug Notas\Demo Plug Notas\bin\Debug\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\João Paulo Fernandes\source\repos\Demo Plug Notas\Demo Plug Notas\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\João Paulo Fernandes\source\repos\Demo Plug Notas\Demo Plug Notas\bin\Debug\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\João Paulo Fernandes\source\repos\Demo Plug Notas\Demo Plug Notas\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\João Paulo Fernandes\source\repos\Demo Plug Notas\Demo Plug Notas\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\João Paulo Fernandes\source\repos\Demo Plug Notas\Demo Plug Notas\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\João Paulo Fernandes\source\repos\Demo Plug Notas\Demo Plug Notas\bin\Debug\Newtonsoft.Json.dll
+C:\Users\João Paulo Fernandes\source\repos\Demo Plug Notas\Demo Plug Notas\bin\Debug\RestClient.dll
+C:\Users\João Paulo Fernandes\source\repos\Demo Plug Notas\Demo Plug Notas\bin\Debug\RestSharp.dll
+C:\Users\João Paulo Fernandes\source\repos\Demo Plug Notas\Demo Plug Notas\bin\Debug\System.Buffers.dll
+C:\Users\João Paulo Fernandes\source\repos\Demo Plug Notas\Demo Plug Notas\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\João Paulo Fernandes\source\repos\Demo Plug Notas\Demo Plug Notas\bin\Debug\System.Memory.dll
+C:\Users\João Paulo Fernandes\source\repos\Demo Plug Notas\Demo Plug Notas\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\João Paulo Fernandes\source\repos\Demo Plug Notas\Demo Plug Notas\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\João Paulo Fernandes\source\repos\Demo Plug Notas\Demo Plug Notas\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\João Paulo Fernandes\source\repos\Demo Plug Notas\Demo Plug Notas\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\João Paulo Fernandes\source\repos\Demo Plug Notas\Demo Plug Notas\bin\Debug\System.Security.AccessControl.dll
+C:\Users\João Paulo Fernandes\source\repos\Demo Plug Notas\Demo Plug Notas\bin\Debug\System.Security.Permissions.dll
+C:\Users\João Paulo Fernandes\source\repos\Demo Plug Notas\Demo Plug Notas\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\João Paulo Fernandes\source\repos\Demo Plug Notas\Demo Plug Notas\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\João Paulo Fernandes\source\repos\Demo Plug Notas\Demo Plug Notas\bin\Debug\System.Text.Json.dll
+C:\Users\João Paulo Fernandes\source\repos\Demo Plug Notas\Demo Plug Notas\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\João Paulo Fernandes\source\repos\Demo Plug Notas\Demo Plug Notas\bin\Debug\System.ValueTuple.dll
+C:\Users\João Paulo Fernandes\source\repos\Demo Plug Notas\Demo Plug Notas\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\João Paulo Fernandes\source\repos\Demo Plug Notas\Demo Plug Notas\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\João Paulo Fernandes\source\repos\Demo Plug Notas\Demo Plug Notas\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\João Paulo Fernandes\source\repos\Demo Plug Notas\Demo Plug Notas\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.xml
+C:\Users\João Paulo Fernandes\source\repos\Demo Plug Notas\Demo Plug Notas\bin\Debug\Microsoft.Extensions.Configuration.Json.xml
+C:\Users\João Paulo Fernandes\source\repos\Demo Plug Notas\Demo Plug Notas\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\Users\João Paulo Fernandes\source\repos\Demo Plug Notas\Demo Plug Notas\bin\Debug\Microsoft.Extensions.FileProviders.Physical.xml
+C:\Users\João Paulo Fernandes\source\repos\Demo Plug Notas\Demo Plug Notas\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.xml
+C:\Users\João Paulo Fernandes\source\repos\Demo Plug Notas\Demo Plug Notas\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\João Paulo Fernandes\source\repos\Demo Plug Notas\Demo Plug Notas\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\João Paulo Fernandes\source\repos\Demo Plug Notas\Demo Plug Notas\bin\Debug\Newtonsoft.Json.xml
+C:\Users\João Paulo Fernandes\source\repos\Demo Plug Notas\Demo Plug Notas\bin\Debug\RestSharp.xml
+C:\Users\João Paulo Fernandes\source\repos\Demo Plug Notas\Demo Plug Notas\bin\Debug\System.Buffers.xml
+C:\Users\João Paulo Fernandes\source\repos\Demo Plug Notas\Demo Plug Notas\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\João Paulo Fernandes\source\repos\Demo Plug Notas\Demo Plug Notas\bin\Debug\System.Memory.xml
+C:\Users\João Paulo Fernandes\source\repos\Demo Plug Notas\Demo Plug Notas\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\João Paulo Fernandes\source\repos\Demo Plug Notas\Demo Plug Notas\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\João Paulo Fernandes\source\repos\Demo Plug Notas\Demo Plug Notas\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\João Paulo Fernandes\source\repos\Demo Plug Notas\Demo Plug Notas\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\João Paulo Fernandes\source\repos\Demo Plug Notas\Demo Plug Notas\bin\Debug\System.Security.AccessControl.xml
+C:\Users\João Paulo Fernandes\source\repos\Demo Plug Notas\Demo Plug Notas\bin\Debug\System.Security.Permissions.xml
+C:\Users\João Paulo Fernandes\source\repos\Demo Plug Notas\Demo Plug Notas\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\João Paulo Fernandes\source\repos\Demo Plug Notas\Demo Plug Notas\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\João Paulo Fernandes\source\repos\Demo Plug Notas\Demo Plug Notas\bin\Debug\System.Text.Json.xml
+C:\Users\João Paulo Fernandes\source\repos\Demo Plug Notas\Demo Plug Notas\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\João Paulo Fernandes\source\repos\Demo Plug Notas\Demo Plug Notas\bin\Debug\System.ValueTuple.xml
+C:\Users\João Paulo Fernandes\source\repos\Demo Plug Notas\Demo Plug Notas\obj\Debug\Demo Plug Notas.csproj.App.config
+C:\Users\João Paulo Fernandes\source\repos\Demo Plug Notas\Demo Plug Notas\obj\Debug\Demo_Plug_Notas.Form1.resources
+C:\Users\João Paulo Fernandes\source\repos\Demo Plug Notas\Demo Plug Notas\obj\Debug\Demo_Plug_Notas.Properties.Resources.resources
+C:\Users\João Paulo Fernandes\source\repos\Demo Plug Notas\Demo Plug Notas\obj\Debug\Demo Plug Notas.csproj.GenerateResource.cache
+C:\Users\João Paulo Fernandes\source\repos\Demo Plug Notas\Demo Plug Notas\obj\Debug\Demo Plug Notas.csproj.CoreCompileInputs.cache
+C:\Users\João Paulo Fernandes\source\repos\Demo Plug Notas\Demo Plug Notas\obj\Debug\Demo Plug Notas.csproj.CopyComplete
+C:\Users\João Paulo Fernandes\source\repos\Demo Plug Notas\Demo Plug Notas\obj\Debug\Demo Plug Notas.exe
+C:\Users\João Paulo Fernandes\source\repos\Demo Plug Notas\Demo Plug Notas\obj\Debug\Demo Plug Notas.pdb
+C:\Users\João Paulo Fernandes\source\repos\Demo Plug Notas\Demo Plug Notas\obj\Debug\Demo Plug Notas.csprojAssemblyReference.cache
+C:\Users\João Paulo Fernandes\source\repos\Demo Plug Notas\Demo Plug Notas\bin\Debug\Spire.License.dll
+C:\Users\João Paulo Fernandes\source\repos\Demo Plug Notas\Demo Plug Notas\bin\Debug\Spire.Pdf.dll
+C:\Users\João Paulo Fernandes\source\repos\Demo Plug Notas\Demo Plug Notas\bin\Debug\Microsoft.mshtml.dll
+C:\Users\João Paulo Fernandes\source\repos\Demo Plug Notas\Demo Plug Notas\bin\Debug\Spire.License.xml
+C:\Users\João Paulo Fernandes\source\repos\Demo Plug Notas\Demo Plug Notas\bin\Debug\Spire.Pdf.xml
+C:\Users\João Paulo Fernandes\source\repos\Demo Plug Notas\Demo Plug Notas\bin\Debug\libeay32.dll
+C:\Users\João Paulo Fernandes\source\repos\Demo Plug Notas\Demo Plug Notas\bin\Debug\libgcc_s_dw2-1.dll
+C:\Users\João Paulo Fernandes\source\repos\Demo Plug Notas\Demo Plug Notas\bin\Debug\mingwm10.dll
+C:\Users\João Paulo Fernandes\source\repos\Demo Plug Notas\Demo Plug Notas\bin\Debug\ssleay32.dll
+C:\Users\João Paulo Fernandes\source\repos\Demo Plug Notas\Demo Plug Notas\bin\Debug\wkhtmltox0.dll
+C:\Users\João Paulo Fernandes\source\repos\Demo Plug Notas\Demo Plug Notas\bin\Debug\Common.Logging.dll
+C:\Users\João Paulo Fernandes\source\repos\Demo Plug Notas\Demo Plug Notas\bin\Debug\Pechkin.dll
+C:\Users\João Paulo Fernandes\source\repos\Demo Plug Notas\Demo Plug Notas\bin\Debug\Json.Net.dll
+C:\Users\João Paulo Fernandes\source\repos\Demo Plug Notas\Demo Plug Notas\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\João Paulo Fernandes\source\repos\Demo Plug Notas\Demo Plug Notas\bin\Debug\Stripe.net.dll
+C:\Users\João Paulo Fernandes\source\repos\Demo Plug Notas\Demo Plug Notas\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\João Paulo Fernandes\source\repos\Demo Plug Notas\Demo Plug Notas\bin\Debug\Stripe.net.pdb
+C:\Users\João Paulo Fernandes\source\repos\Demo Plug Notas\Demo Plug Notas\bin\Debug\Stripe.net.xml
+C:\Users\João Paulo Fernandes\source\repos\Demo Plug Notas\Demo Plug Notas\obj\Debug\Demo_Plug_Notas.Form3.resources
