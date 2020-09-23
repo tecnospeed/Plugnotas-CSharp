@@ -8,6 +8,9 @@ Requisições e exemplos contidos na demonstração:
 - Formatação de respostas JSON;
 
 Site: http://plugnotas.com.br
+
 Interface Web: https://app.plugnotas.com.br
+
 Atendimento ao cliente: https://atendimento.tecnospeed.com.br
+
 Documentação: https://docs.plugnotas.com.br
